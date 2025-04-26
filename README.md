@@ -1,2 +1,3 @@
-# Static HTML Boilerplate
-Basic HTML, CSS, and JavaScript setup for a simple website.
+# Simple Blog post site
+Simple website with a blog post
+
